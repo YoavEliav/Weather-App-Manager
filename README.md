@@ -82,7 +82,6 @@ The Weather App is a simple desktop application built using C++ and Dear ImGui f
 │   ├── WeatherManager.cpp
 │   ├── UI.h
 │   ├── UI.cpp
-├── CMakeLists.txt
 ├── README.md
 └── ... (other necessary files)
 ```
